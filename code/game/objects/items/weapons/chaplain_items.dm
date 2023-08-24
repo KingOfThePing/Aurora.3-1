@@ -259,3 +259,18 @@
 	else
 		icon_state = "assunzionesheath_empty"
 
+/obj/item/nullrod/spearstaff
+    name = "mata'ke spearstaff"
+    desc = "A tajaran spear with aged wood and decorative furs from previous hunts attached below the iron spearhead."
+    desc_extended = "The priesthood of Mata’ke is comprised of only male hunters, making it somewhat exclusive. Like their patron, all priests of Mata’ke must prove \
+    that they are capable, strong, masters of Adhomai's wilderness, and wise. Every temple of Mata'ke has a different way of testing its applicants and these tests are \
+    always kept as a strict secret."
+    icon = 'icons/obj/tajara_items.dmi'
+    contained_sprite = TRUE
+    icon_state = "matake_spear"
+    item_state = "matake_spear"
+    attack_verb = list("attacked", "poked", "jabbed", "gored", "stabbed")
+    sharp = 1
+    reach = 2
+    slot_flags = SLOT_BACK
+    w_class = ITEMSIZE_LARGE
