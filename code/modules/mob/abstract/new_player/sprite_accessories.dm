@@ -3358,7 +3358,7 @@ Follow by example and make good judgement based on length which list to include 
 
 /datum/sprite_accessory/hair/msai_ears/msai_ears_bobcut_overeye
 	name = "M'sai Bobcut, overeye"
-	icon_state = "hair_bobcut_overeye"
+	icon_state = "msai_bobcut_overeye"
 	length = 2
 	chatname = "bobcut"
 
@@ -3386,7 +3386,7 @@ Follow by example and make good judgement based on length which list to include 
 	length = 3
 	chatname = "curly mane"
 
-/datum/sprite_accessory/hair/msai_ears/msai_ears_curls
+/datum/sprite_accessory/hair/msai_ears/msai_ears_curlsalt
 	name = "M'sai Curly Alt"
 	icon_state = "msai_curlyalt"
 	length = 3
@@ -3617,7 +3617,7 @@ Follow by example and make good judgement based on length which list to include 
 
 /datum/sprite_accessory/hair/msai_ears/msai_ears_diagonal_bangs
 	name = "M'sai Diagonal Bangs"
-	icon_state = "hair_diagonal_bangs"
+	icon_state = "msai_diagonal_bangs"
 	length = 2
 	chatname = "bangs"
 
@@ -4688,6 +4688,30 @@ Follow by example and make good judgement based on length which list to include 
 /datum/sprite_accessory/facial_hair/ipc_screen_blank/ipc_screen_question_mark
 	name = "question mark IPC screen"
 	icon_state = "ipc_question"
+
+/datum/sprite_accessory/facial_hair/ipc_screen_blank/ipc_green_eyes
+	name = "green eyes IPC screen"
+	icon_state = "ipc_green_eyes"
+
+/datum/sprite_accessory/facial_hair/ipc_screen_blank/ipc_red_eyes
+	name = "red eyes IPC screen"
+	icon_state = "ipc_red_eyes"
+
+/datum/sprite_accessory/facial_hair/ipc_screen_blank/ipc_yellow_eyes
+	name = "yellow eyes IPC screen"
+	icon_state = "ipc_yellow_eyes"
+
+/datum/sprite_accessory/facial_hair/ipc_screen_blank/ipc_pink_eyes
+	name = "pink eyes IPC screen"
+	icon_state = "ipc_pink_eyes"
+
+/datum/sprite_accessory/facial_hair/ipc_screen_blank/ipc_orange_eyes
+	name = "orange eyes IPC screen"
+	icon_state = "ipc_orange_eyes"
+
+/datum/sprite_accessory/facial_hair/ipc_screen_blank/ipc_blue_eyes
+	name = "blue eyes IPC screen"
+	icon_state = "ipc_blue_eyes"
 
 //bishop screens
 /datum/sprite_accessory/facial_hair/ipc_screen_blank/bishop
