@@ -234,3 +234,8 @@
 	desc = "Delta-BAC was the first official-unofficial name given to the engineering department's designated hangout spot, by some drunk wrenchers on duty."
 	desc_extended = "After arguing, that the 'hidden' maintenance bar behind engineering, a designated hangout spot for said engineers, finally needs a name an equally drunk and democratic vote was put up to name it the Delta-BAC. Because \
 	the blood alcohol content after drinking is just the blood alcohol content before drinking? About as logical as it can get with wasted engineers."
+
+/obj/structure/sign/flag/cannons_nest
+	name = "Cannon's Rest"
+	desc = "Being far away from crew to have some peace and quiet is very desireable to some. And there is no almost no place further away than the wings of the Horizon."
+	desc_extended = "Where the experimental artillery cannon-railgun hybrid Goliath used to sit is now only darkness and a lot of grime. Doesn't mean you can't make it a nice place, though. And nice places deserve a name."
