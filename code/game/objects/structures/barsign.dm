@@ -225,7 +225,7 @@
 /obj/item/flag/maintsign // This is a flag because you are supposed to be able to mount it whereever your heart desires.
 	icon = 'icons/obj/maintsigns.dmi'
 	icon_state = 'blank'
-	desc = "Badly sawn out wooden boards, with some nails and other materials, ready to receive today's christening of engineering's hangout hidey-hole."
+	desc = "Badly sawn out wooden boards, with some nails and other materials, ready to receive today's christening of the Horizon's maintenance dwellers hangout hidey-hole."
 	var/choice_types = /singleton/double/barsign/maintenance
 
 /obj/structure/sign/flag/delta_bac
