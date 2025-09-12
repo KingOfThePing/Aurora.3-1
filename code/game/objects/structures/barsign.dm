@@ -219,3 +219,18 @@
 	desc_extended = "Getmore was always a big player in the food industry. A logical follow-up would be to get big into retail and cut out the middle-man in distribution. Thus, the king of convenience stores was born: \
 	GMG24. Usually open 24 hours, 7 days a week there aren't many places in the galaxy where you aren't in walking distance of a GM24. Selling everything you need for your daily life, the selection is surprisingly big \
 	and affordable. This strategy catapulted Getmore into the big league of convenience stores."
+
+// Here come signs that are in any way special or are not supposed to be in the kitchen- or barsign selection.
+
+/obj/item/flag/maintsign // This is a flag because you are supposed to be able to mount it whereever your heart desires.
+	icon = 'icons/obj/maintsigns.dmi'
+	icon_state = 'blank'
+	desc = "Badly sawn out wooden boards, with some nails and other materials, ready to receive today's christening of engineering's hangout hidey-hole."
+	var/choice_types = /singleton/double/barsign/maintenance
+
+/obj/structure/sign/flag/delta_bac
+	name = "Delta-BAC"
+	icon_state = "Delta-BAC"
+	desc = "Delta-BAC was the first official-unofficial name given to the engineering department's designated hangout spot, by some drunk wrenchers on duty."
+	desc_extended = "After arguing, that the 'hidden' maintenance bar behind engineering, a designated hangout spot for said engineers, finally needs a name an equally drunk and democratic vote was put up to name it the Delta-BAC. Because \
+	the blood alcohol content after drinking is just the blood alcohol content before drinking? About as logical as it can get with wasted engineers."
